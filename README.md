@@ -1,5 +1,5 @@
 
-# SWASTHYA: IOT Based Health Monitoring System
+# Health Monitoring System
 
 #### Abstract
 * Health and fitness have become more important.
